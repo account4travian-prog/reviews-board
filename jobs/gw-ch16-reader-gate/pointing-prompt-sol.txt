@@ -1,0 +1,1 @@
+Reader gate job: read jobs/gw-ch16-reader-gate/TASK.md and follow it exactly. The only other file you may read is draft.md in that same folder - nothing else, no packet, no other chapters, no reviews. Write findings.md in that folder when done.

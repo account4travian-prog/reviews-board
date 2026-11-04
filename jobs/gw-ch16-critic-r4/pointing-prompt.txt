@@ -1,0 +1,15 @@
+Reviews board job: gw-ch16-critic-r4
+
+WORK FOLDER (your entire world for this job): jobs/gw-ch16-critic-r4
+
+Read first, in this order:
+1. ../../personas/senior-reviewer.md (from the work folder)
+2. TASK.md
+3. feedback.md
+4. packet.md
+5. draft.md
+6. rulings.md
+
+Do exactly what TASK.md says. Write your deliverable to findings.md in the work folder, in the persona's specified format.
+
+When findings.md exists, reply with exactly: DONE

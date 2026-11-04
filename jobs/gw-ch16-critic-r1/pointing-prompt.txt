@@ -1,0 +1,1 @@
+Reviews board job: read jobs/gw-ch16-critic-r1/TASK.md and do exactly what it says. The persona file is ../../personas/senior-reviewer.md relative to the job folder. The files in that folder are your entire world. Write findings.md in the job folder when done.

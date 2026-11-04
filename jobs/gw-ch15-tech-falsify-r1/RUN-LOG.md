@@ -1,0 +1,3 @@
+# RUN-LOG — gw-ch15-tech-falsify-r1
+
+- 2026-10-17 ~20:25 CDT — job created by Atlas (Phase 6 tech-accuracy falsification for GW ch.15 r2). Candidate: draft.md byte-identical to chapters/15/draft-r2-sol.md, SHA-256 2626af4a1c3bfbac60ca27c2dc9f19e054e7e6eded13945724d618a895b18427 (17,629 bytes, 2,911 words; scope proven by reverse-diff reconstruction to r1 f2182c55…). registry-excerpt.md curated by Atlas from packet-r1-sol.md (mechanism + licensed claims + absence scope + falsifiability, one resolved statement, no verdicts). rulings.md carried over from gw-ch15-critic-r1 (22c4e3c7…). Seat: fresh isolated Sol, senior-reviewer persona — to be pointed after PC push + hash verification.

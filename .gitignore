@@ -1,0 +1,24 @@
+# Secrets and local config
+.env
+.env.*
+!.env.example
+*credentials*
+*token*
+*.key
+*.pem
+
+# Runner artifacts
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Runtimes
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
